@@ -1,0 +1,47 @@
+{
+  "note": "Updated automatically by the flyer robot - see website.py",
+  "flyers": [
+    {
+      "label": "Askews-Flyer_Nov15-21",
+      "button": "November 15-21 (.PDF)",
+      "pdf": "https://www.askewsfoods.com/s/Askews-Flyer_Nov15-21_LowRes.pdf",
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/5a3adea14c326d39f2344069/1794587972257-PT1FQW451LYSDL1QU0K9/01.jpg?format=1500w",
+        "https://images.squarespace-cdn.com/content/v1/5a3adea14c326d39f2344069/1794587972280-7C8WKHLNVR0TY091OSZH/02.jpg?format=1500w",
+        "https://images.squarespace-cdn.com/content/v1/5a3adea14c326d39f2344069/1794587973639-MH6TH73PGLFIBP647RPE/03.jpg?format=1500w",
+        "https://images.squarespace-cdn.com/content/v1/5a3adea14c326d39f2344069/1794587973691-R631VY88DCWKW1QQWPMI/04.jpg?format=1500w",
+        "https://images.squarespace-cdn.com/content/v1/5a3adea14c326d39f2344069/1794587974819-6TUMU3NZIO5BRMGR3Z2O/05.jpg?format=1500w",
+        "https://images.squarespace-cdn.com/content/v1/5a3adea14c326d39f2344069/1794587975076-MZN8S9MQ4VI436JKZOEB/06.jpg?format=1500w",
+        "https://images.squarespace-cdn.com/content/v1/5a3adea14c326d39f2344069/1794587976096-IMWHC4U44WSANTZS1JE8/07.jpg?format=1500w",
+        "https://images.squarespace-cdn.com/content/v1/5a3adea14c326d39f2344069/1794587976441-RD633IZPQ4VM8RJ8VFJ5/08.jpg?format=1500w",
+        "https://images.squarespace-cdn.com/content/v1/5a3adea14c326d39f2344069/1794587977413-1UFTCKDY2MY31H676VTN/09.jpg?format=1500w",
+        "https://images.squarespace-cdn.com/content/v1/5a3adea14c326d39f2344069/1794587977740-NBNSPRYNH7LSRYWOMCZR/10.jpg?format=1500w",
+        "https://images.squarespace-cdn.com/content/v1/5a3adea14c326d39f2344069/1794587978567-E0IJKA0OUQO1VKXDY6Z7/11.jpg?format=1500w",
+        "https://images.squarespace-cdn.com/content/v1/5a3adea14c326d39f2344069/1794587978988-8ETBQOVT7WR0TR8K3W7M/12.jpg?format=1500w"
+      ],
+      "show_from": "2026-11-13T12:00:00Z",
+      "show_until": "2026-11-22T07:00:00Z"
+    },
+    {
+      "label": "Askews-Flyer_Nov22-28",
+      "button": "November 22-28 (.PDF)",
+      "pdf": "https://mcusercontent.com/218c6271b3b213b6b3ad5e5eb/files/34c96e90-1d2f-08e3-c88f-19ff917283f4/Askews_Flyer_Nov22_28_LowRes.pdf",
+      "images": [
+        "https://mcusercontent.com/218c6271b3b213b6b3ad5e5eb/images/d97f0182-dc02-64f5-2882-9cbfbcb0ba2a.jpg",
+        "https://mcusercontent.com/218c6271b3b213b6b3ad5e5eb/images/7fe5ed67-5634-927b-2072-9d2abdd7813f.jpg",
+        "https://mcusercontent.com/218c6271b3b213b6b3ad5e5eb/images/7d219dd4-a730-62e6-b1fa-b0188466ef04.jpg",
+        "https://mcusercontent.com/218c6271b3b213b6b3ad5e5eb/images/7071604e-7600-892d-1de8-cc9821b2308f.jpg",
+        "https://mcusercontent.com/218c6271b3b213b6b3ad5e5eb/images/53e9f9d6-3d55-7d56-efcd-b2cf5937d46e.jpg",
+        "https://mcusercontent.com/218c6271b3b213b6b3ad5e5eb/images/a0a148ef-953d-1e9c-1d38-c4f0c0bd8db5.jpg",
+        "https://mcusercontent.com/218c6271b3b213b6b3ad5e5eb/images/6bdd622a-8b59-fb44-96d9-265fd63d0902.jpg",
+        "https://mcusercontent.com/218c6271b3b213b6b3ad5e5eb/images/7404d481-9d12-c63c-421f-321fb7003196.jpg",
+        "https://mcusercontent.com/218c6271b3b213b6b3ad5e5eb/images/a0979f2c-7c30-628c-51a4-911ab5b596ad.jpg",
+        "https://mcusercontent.com/218c6271b3b213b6b3ad5e5eb/images/889d1746-a3bf-291a-f143-de8d7e668a22.jpg",
+        "https://mcusercontent.com/218c6271b3b213b6b3ad5e5eb/images/dc4cf256-1efe-4eef-fa74-7a766f98182d.jpg",
+        "https://mcusercontent.com/218c6271b3b213b6b3ad5e5eb/images/94a016ba-127f-a983-bf71-54b71f612d5f.jpg"
+      ],
+      "show_from": "2026-11-20T12:00:00Z",
+      "show_until": "2026-11-29T07:00:00Z"
+    }
+  ]
+}
